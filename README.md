@@ -5,3 +5,5 @@ I am Monisha V., a third-semester B.Tech Computer Science and Engineering studen
 Learning Python and C programming
 
 Interested in web development and software engineering
+
+Goal: contribute to open source and build useful software projects
