@@ -7,3 +7,11 @@ Learning Python and C programming
 Interested in web development and software engineering
 
 Goal: contribute to open source and build useful software projects
+
+## Projects
+
+### LineFlow
+A simple line-based text editor project that allows users to insert and display lines of text.
+
+### Hello World in C
+A beginner C programming project that prints a greeting and demonstrates basic functions.
